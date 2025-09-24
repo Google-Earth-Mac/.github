@@ -20,7 +20,7 @@ The application is fully optimized for macOS, offering smooth navigation and fas
 
 Whether you're a student, traveler, or professional, Google Earth provides a unique way to visualize and understand our planet. It supports layers for borders, roads, photos, and more, making it a versatile tool for education and research.  
 
-![Google Earth Screenshot](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Earth_Voyager.width-800.format-webp.webp)
+![Google Earth Screenshot](https://pic.clubic.com/dfb2803f2329521/976x679/smart/interface-google-earth.png)
 
 ---
 
